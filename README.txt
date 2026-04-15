@@ -1,6 +1,6 @@
 Handyman App - User Guide
 ====================================
-Version: 1.0.0
+Version: 1.0.1
 Build Date: 2025-09-08
 
 Welcome to the Automating Innovating AI Handyman App — a streamlined, secure, and intuitive tool
