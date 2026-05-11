@@ -7,6 +7,26 @@ All license tiers (Basic, Pro, Enterprise) are included in one unified applicati
 
 ---
 
+## ADMIN ROLES
+
+• GLOBAL ADMIN (Corporate Level)
+  - Full system access.
+  - Manages subscription plans and license upgrades.
+  - Creates companies, divisions, and regions.
+  - Manages all admins (global + local).
+  - Controls payroll schedules and exports.
+  - Oversees inventory, suppliers, and purchase orders.
+  - Integrates the Payroll App with CRM modules.
+
+• LOCAL ADMIN (Division / Region Level)
+  - Limited access based on assigned role + permissions.
+  - Enters employee job tickets, production data, and material usage.
+  - Reviews work tickets before payroll is processed.
+  - Can manage inventory and POs if permissions allow.
+  - Cannot modify subscription plans or corporate settings.
+
+---
+
 ## Included in This Release
 - Basic Plan  
 - Pro Plan  

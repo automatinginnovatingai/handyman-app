@@ -1,10 +1,30 @@
 Handyman App - User Guide
 ====================================
-Version: 1.0.1
+Version: 2.0.0
 Build Date: 2025-09-08
 
 Welcome to the Automating Innovating AI Handyman App — a streamlined, secure, and intuitive tool
 for managing production workflows, worker payroll, material usage, task tracking, and data exports.
+
+============================================================
+ADMIN ROLES
+============================================================
+
+• GLOBAL ADMIN (Corporate Level)
+  - Full system access.
+  - Manages subscription plans and license upgrades.
+  - Creates companies, divisions, and regions.
+  - Manages all admins (global + local).
+  - Controls payroll schedules and exports.
+  - Oversees inventory, suppliers, and purchase orders.
+  - Integrates the Payroll App with CRM modules.
+
+• LOCAL ADMIN (Division / Region Level)
+  - Limited access based on assigned role + permissions.
+  - Enters employee job tickets, production data, and material usage.
+  - Reviews work tickets before payroll is processed.
+  - Can manage inventory and POs if permissions allow.
+  - Cannot modify subscription plans or corporate settings.
 
 Key Features
 ------------
